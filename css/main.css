@@ -1287,7 +1287,7 @@ pre .javascript .function {
 }
 @media (min-width: 992px) {
   .posts-expand .post-body {
-    text-align: justify;
+    text-align: center;
   }
 }
 .posts-expand .post-body h2,
@@ -1942,7 +1942,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #fc3bff;
+  background: #ff9;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2874,7 +2874,7 @@ hr {
 }
 .posts-expand .post-title,
 .posts-expand .post-meta {
-  text-align: left;
+  text-align: center;
 }
 @media (max-width: 767px) {
   .posts-expand .post-title,
@@ -2896,6 +2896,7 @@ hr {
   margin-bottom: 20px;
 }
 .posts-expand .post-title {
+  text-align: center;
   position: relative;
   font-size: 26px;
   font-weight: 400;
