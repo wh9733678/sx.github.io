@@ -1942,7 +1942,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ff9;
+  background: #ff6340;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2938,7 +2938,7 @@ hr {
 }
 .post-button {
   margin-top: 20px;
-  text-align: left;
+  text-align: center;
 }
 .post-button a {
   padding: 0;
@@ -3024,4 +3024,7 @@ hr {
     width: auto;
     text-align: center;
   }
+}
+.main-inner {
+  width: 880px;
 }

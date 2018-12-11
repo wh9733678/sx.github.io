@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[日语学习第一天]]></title>
+    <url>%2Fjp1.html</url>
+    <content type="text"><![CDATA[一直想学习日语，买过沪江的课，看过各种视频，每次都没能坚持下来,搭建这个blog之后不知道写点什么，索性就每天打卡学习日语好了，不知道这次能坚持多久。。。。无所谓啦，估计这个blog也不会有人看。 五十音全图]]></content>
+      <categories>
+        <category>Japanese</category>
+      </categories>
+      <tags>
+        <tag>Japanese</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[推荐一款windows搜索工具Everything]]></title>
     <url>%2Feverything.html</url>
     <content type="text"><![CDATA[Everything是一个私有的免费Windows桌面搜索引擎,基本可是实现秒搜，唯一缺点就是仅支持NTFS格式分区。 官方下载页面]]></content>
